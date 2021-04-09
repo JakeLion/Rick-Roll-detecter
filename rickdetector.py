@@ -1,3 +1,6 @@
+#Original Creator: Jacob Cornelison
+#Version: 1.0.0
+
 while True:
     link = input("Enter a link here")
 
