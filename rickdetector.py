@@ -14,5 +14,7 @@ while True:
         print('This is a Rick Roll\n')
     elif link == "https://www.youtube.com/watch?v=IO9XlQrEt2Y&ab_channel=RickAstleyVEVO":
         print("This is a Rick Roll\n")
+    elif link == "https://www.mrman314.tech/minecraft_on_discord":
+        print("This is a Rick Roll\n")
     else:
         print("This is not a Rick Roll\n")
